@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Aprendendo com CodeSandbox</h1>
-      <h2>aqui começa a magica22525</h2>
+      <h2>aqui começa a magica test</h2>
     </div>
   );
 }
