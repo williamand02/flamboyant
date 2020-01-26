@@ -1,5 +1,5 @@
 form {
-  padding: 0 100px;
+  padding: 0 5px;
 }
 
 #corpo-Intelli {
@@ -20,7 +20,7 @@ form {
 }
 
 #corpo-Intelli .input-meal {
-  /* width: 350; */
+  width: 330px;
   margin: auto;
   background-color: rgb(255, 255, 255);
 }
