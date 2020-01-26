@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 
 import "./style.css";
-
 function ListRange() {
   const message = "No maximo 7 ingredientes";
 
@@ -11,7 +10,8 @@ function ListRange() {
   const [total, setTotal] = useState(0);
   function handleChange(event) {
     const { name, value } = event.target;
-    // setCarbo(value);
+    // No máximo 3 Carbos, 3 Proteinas e 3 Vegetais
+    // Um máximo de 7 ingredientes por marmita
     console.log(total, value, carbo * 1 + protein * 1 + vegie * 1);
     if (total <= 7) {
       if (name === "carbo") setCarbo(value);
