@@ -9,3 +9,5 @@ export default function App() {
     </div>
   );
 }
+// No máximo 3 Carbos, 3 Proteinas e 3 Vegetais
+// Um máximo de 7 ingredientes por marmita
