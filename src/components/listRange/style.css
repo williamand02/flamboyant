@@ -20,7 +20,7 @@ form {
 }
 
 #corpo-Intelli .input-meal {
-  width: 350px;
+  /* width: 350; */
   margin: auto;
   background-color: rgb(255, 255, 255);
 }
@@ -34,7 +34,7 @@ p.title-input-meal {
 }
 
 #corpo-Intelli .range-input {
-  width: 325px;
+  width: 250px;
 }
 #corpo-Intelli .range-number {
   background-color: #e0e0e0;
